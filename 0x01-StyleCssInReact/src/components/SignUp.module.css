@@ -1,0 +1,7 @@
+.buttonStyle {
+  background-color: rgb(255, 30, 30);
+  border: none;
+  color: white;
+  border-radius: 5px;
+  padding: 5px 10px;
+}
